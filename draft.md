@@ -1,8 +1,3 @@
-### test 666 by Charles (Luke) Lee
-- [Read the guide](/draft/other/test-666)
-- [Read more from Charles (Luke) Lee](/user/perkolasoft) <img src="https://avatars.githubusercontent.com/u/15053257?v=3" width="30" height="30" alt="Charles (Luke) Lee" />
-- Related to: other
-
 ### test 33 by Luke Lee
 - [Read the guide](/draft/java-and-j2ee/test-33)
 - [Read more from Luke Lee](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="Luke Lee" />

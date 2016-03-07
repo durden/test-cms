@@ -7,8 +7,3 @@
 - [Read the guide](/python/test-5?status=draft)
 - [Read more from durden](/user/durden)
 - Related to: python,c/c++
-
-### test 4 by durden
-- [Read the guide](/python/test-4?status=draft)
-- [Read more from durden](/user/durden)
-- Related to: python,c/c++

@@ -17,8 +17,3 @@
 - [Read the guide](/python/test-3?status=draft)
 - [Read more from durden](/user/durden)
 - Related to: python,c/c++
-
-### test 6 by durden
-- [Read the guide](/c-c++/test-6?status=draft)
-- [Read more from durden](/user/durden)
-- Related to: c/c++

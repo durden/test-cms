@@ -12,8 +12,3 @@
 - [Read the guide](/python/test-4?status=draft)
 - [Read more from durden](/user/durden)
 - Related to: python,c/c++
-
-### test 3 by durden
-- [Read the guide](/python/test-3?status=draft)
-- [Read more from durden](/user/durden)
-- Related to: python,c/c++

@@ -1,3 +1,8 @@
+### test 4 by durden
+- [Read the guide](/python/test-4?status=draft)
+- [Read more from durden](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="durden" />
+- Related to: python,c/c++
+
 ### test 3 by durden
 - [Read the guide](/python/test-3?status=draft)
 - [Read more from durden](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="durden" />

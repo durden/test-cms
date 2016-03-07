@@ -15,5 +15,5 @@
 
 ### test 2 by durden
 - [Read the guide](/python/test-2?status=in-review)
-- [Read more from durden](/user/durden)
+- [Read more from durden](/user/durden) <img src="https://avatars.githubusercontent.com/u/58063?v=3" width="30" height="30" alt="durden" />
 - Related to: python,c/c++
